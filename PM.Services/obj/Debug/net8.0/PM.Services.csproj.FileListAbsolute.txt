@@ -1,0 +1,17 @@
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.Services.deps.json
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.Services.dll
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.Services.pdb
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.Core.dll
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.DatabaseContext.pdb
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\bin\Debug\net8.0\PM.Core.pdb
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.csproj.AssemblyReference.cache
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.AssemblyInfoInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.AssemblyInfo.cs
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.csproj.CoreCompileInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.csproj.CopyComplete
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.dll
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\refint\PM.Services.dll
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\PM.Services.pdb
+D:\OtherWork\Ankit\ProjectManagement\PM.Services\obj\Debug\net8.0\ref\PM.Services.dll

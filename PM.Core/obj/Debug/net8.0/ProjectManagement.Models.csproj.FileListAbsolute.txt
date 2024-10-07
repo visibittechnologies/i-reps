@@ -1,0 +1,4 @@
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.Models\obj\Debug\net8.0\ProjectManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.Models\obj\Debug\net8.0\ProjectManagement.Models.AssemblyInfoInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.Models\obj\Debug\net8.0\ProjectManagement.Models.AssemblyInfo.cs
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.Models\obj\Debug\net8.0\ProjectManagement.Models.csproj.CoreCompileInputs.cache

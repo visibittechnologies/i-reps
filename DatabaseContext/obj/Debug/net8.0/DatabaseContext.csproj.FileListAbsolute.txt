@@ -1,0 +1,11 @@
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\bin\Debug\net8.0\DatabaseContext.deps.json
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\bin\Debug\net8.0\DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\bin\Debug\net8.0\DatabaseContext.pdb
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\DatabaseContext.AssemblyInfoInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\DatabaseContext.AssemblyInfo.cs
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\refint\DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\DatabaseContext.pdb
+D:\OtherWork\Ankit\ProjectManagement\DatabaseContext\obj\Debug\net8.0\ref\DatabaseContext.dll

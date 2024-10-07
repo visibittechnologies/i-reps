@@ -1,0 +1,14 @@
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.csproj.AssemblyReference.cache
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.AssemblyInfoInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.AssemblyInfo.cs
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\bin\Debug\net8.0\ProjectManagement.DatabaseContext.deps.json
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\bin\Debug\net8.0\ProjectManagement.DatabaseContext.runtimeconfig.json
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\bin\Debug\net8.0\ProjectManagement.DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\bin\Debug\net8.0\ProjectManagement.DatabaseContext.pdb
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\refint\ProjectManagement.DatabaseContext.dll
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.pdb
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ProjectManagement.DatabaseContext.genruntimeconfig.cache
+D:\OtherWork\Ankit\ProjectManagement\ProjectManagement.DatabaseContext\obj\Debug\net8.0\ref\ProjectManagement.DatabaseContext.dll
